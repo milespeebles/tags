@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "license": "MIT",
   "dependencies": {
-    "service": "file:../service",
-    "toolbelt": "file:../toolbelt"
+    "service": "git://github.com/milespeebles/service.git",
+    "toolbelt": "git://github.com/milespeebles/toolbelt.git"
   },
   "devDependencies": {
     "esm": "3.2.25"
