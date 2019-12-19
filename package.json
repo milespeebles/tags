@@ -1,0 +1,13 @@
+{
+  "name": "tags",
+  "version": "0.1.0",
+  "license": "MIT",
+  "dependencies": {
+    "service": "file:../service",
+    "toolbelt": "file:../toolbelt"
+  },
+  "devDependencies": {
+    "esm": "3.2.25"
+  },
+  "scripts": {}
+}
